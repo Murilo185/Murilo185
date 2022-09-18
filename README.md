@@ -7,4 +7,5 @@ Eu planejo em atuar na área de programação, ainda não esta claro para mim em
 **contato**
 
 email: pedramurilo14@gmail.com
+
 linkedin: https://www.linkedin.com/in/murilo-pedra-b89b16250/
