@@ -12,6 +12,6 @@ linkedin: https://www.linkedin.com/in/murilo-pedra-b89b16250/
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-![alt text]([http://url/to/img.png](https://images.ecycle.com.br/wp-content/uploads/2021/05/20195924/o-que-e-paisagem.jpg)
+![Alt text](/posts/path/to/img.jpg "Optional title")
 
 :grinning:
