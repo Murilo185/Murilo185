@@ -12,4 +12,6 @@ linkedin: https://www.linkedin.com/in/murilo-pedra-b89b16250/
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+![alt text](http://url/to/img.png)
+
 :grinning:
